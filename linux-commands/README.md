@@ -14,11 +14,11 @@ This folder documents my Linux command practice while studying cybersecurity.
 - cd
 
 ### File Management
--touch
--mkdir
--cp
--mv
--rm
+- touch
+- mkdir
+- cp
+- mv
+- rm
 
 ### Viewing Files
 - cat
